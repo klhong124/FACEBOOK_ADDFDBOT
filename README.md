@@ -13,4 +13,5 @@
 <li>Enter number of people to add.</li>
 <li>Click Run and Enjoy.</li>
 </ol>
+
 Version 1.3 - Copyright© Ryan Kwan . klhong124@gmail.com
