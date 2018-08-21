@@ -1,17 +1,16 @@
 # FaceBook Friend Request Senter
-<p>A third party JAVA application helps your Facebook account automatically sending friend request without being banned.</p>
+> A third party JAVA application helps your Facebook account automatically sending friend request without being banned.
 * Web Browser Google Chrome installation required.
 * Only able to add member within FaceBook Group.
+## Getting Started
+* Install Google Chrome at [Google.com](http://www.google.com/chrome/)
+* Download `chromedriver.exe` and `FacebookAddFDBot.jar`
+## User Girde
 
-
-
-<h2> User Girde </h2>
-<ol>
-<li>Enter your Facebook username and password.</li>
-<li>Enter the URL of target Facebook group page.</li>
-<li>Recommmanded request sleep gap : 1500 - 3000ms (avoid Facebook block)</li>
-<li>Enter number of people to add.</li>
-<li>Click Run and Enjoy.</li>
-</ol>
+1. Enter your Facebook username and password.
+1. Enter the URL of target Facebook group page.
+1. Recommmanded request sleep gap : 1500 - 3000ms (avoid Facebook block)
+1. Enter number of people to add.
+1. Click Run and Enjoy.
 
 Version 1.3 - Copyright© Ryan Kwan . klhong124@gmail.com
